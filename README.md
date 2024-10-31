@@ -1,4 +1,4 @@
-# Intro to Deployment
+# Intro to Deployment.
 
 ## Learning Goals
 
